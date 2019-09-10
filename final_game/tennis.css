@@ -1,0 +1,13 @@
+ h1{
+	color:white; 
+	float:left;
+}
+#gamecanvas{
+	margin-top: 40px;
+	margin-left: 10%;
+}
+body{
+	background-image:url("sp.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
